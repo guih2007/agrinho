@@ -1,0 +1,4 @@
+body{background-color: corDeFundoEmIngles;}
+body{background-image: linear-gradient(to direçãoDoGradiente, PrimeiraCordoGradiente, SegundaCorDoGradiente);}
+body{text-align: center;}
+footer{text-align: left;}
