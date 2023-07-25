@@ -1,4 +1,4 @@
-body{background-color: corDeFundoEmIngles;}
-body{background-image: linear-gradient(to direçãoDoGradiente, PrimeiraCordoGradiente, SegundaCorDoGradiente);}
+body{background-color: rgba(0, 60, 255, 0.582);}
+body{background-image: linear-gradient(to right,rgba(0, 60, 255, 0.582), white);}
 body{text-align: center;}
 footer{text-align: left;}
